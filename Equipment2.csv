@@ -1,4 +1,4 @@
-equipmentId, equipmentType, subType, Area
+equipmentId, equipType, subType, Area
 1,Compressor, Turbine,Eagle Ford
 2,Compressor,Reciprocating,Eagle Ford
 3,Compressor, Turbine,Eagle Ford
