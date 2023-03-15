@@ -1,4 +1,4 @@
-Meter Name,Meter ID,Direction,Flow mcfd,Static Pressure psig,Temperature °F,Auto Adjust %,DP inwc,Volume Today mcf,Volume Yesterday mcf,Connect String,Minutes Since Poll,Barometer,Last Poll Success Time,Last Poll Attempt Time,BTU/cf,Specific Gravity,CO2 mol%,Nitrogen mol%,Inerts mol%,Un Norm Mole Percent,Customer Name
+Meter Name,Meter ID,Direction,Flow mcfd,Static Pressure psig,Temperature Â°F,Auto Adjust %,DP inwc,Volume Today mcf,Volume Yesterday mcf,Connect String,Minutes Since Poll,Barometer,Last Poll Success Time,Last Poll Attempt Time,BTU/cf,Specific Gravity,CO2 mol%,Nitrogen mol%,Inerts mol%,Un Norm Mole Percent,Customer Name
 PROSPECT METER RUN 06029-01,06029-01,DEL,0,0,0,,0,0,0,,,,,,1037.430664,0.574035168,0.116765857,0.254022747,0.370788604,100.0570068,
 PROSPECT METER RUN 06029-02,06029-02,DEL,0,0,0,,0,0,0,,,,,,1037.430664,0.574035168,0.116765857,0.254022747,0.370788604,100.0570068,
 WEST RIDGE METER RUN 03671-02,03671-02,REC,88999.45313,874.2422485,60.72634125,,0,15194.24219,0,,,,,,1048.677246,0.582733452,0.201110944,0.270687073,0.471798018,99.83250427,
