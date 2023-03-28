@@ -1,0 +1,3 @@
+﻿fromNode,toNode,relType
+GeoSCADA,Pressure,THIS_TYPE
+Kepware,Leak Detection,THAT_TYPE
