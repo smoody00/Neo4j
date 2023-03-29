@@ -1,0 +1,68 @@
+C:\Users\smoody\PythonProject\app-python>python -m pip install -r requirements.txt
+Collecting attrs==22.1.0
+  Downloading attrs-22.1.0-py2.py3-none-any.whl (58 kB)
+     ---------------------------------------- 58.8/58.8 kB ? eta 0:00:00
+Collecting bcrypt==4.0.0
+  Downloading bcrypt-4.0.0-cp36-abi3-win_amd64.whl (153 kB)
+     ---------------------------------------- 153.1/153.1 kB 3.0 MB/s eta 0:00:00
+Requirement already satisfied: click==8.1.3 in c:\users\smoody\appdata\local\programs\python\python311\lib\site-packages (from -r requirements.txt (line 3)) (8.1.3)
+Requirement already satisfied: Flask==2.2.2 in c:\users\smoody\appdata\local\programs\python\python311\lib\site-packages (from -r requirements.txt (line 4)) (2.2.2)
+Collecting Flask-Cors==3.0.10
+  Downloading Flask_Cors-3.0.10-py2.py3-none-any.whl (14 kB)
+Collecting Flask-JWT-Extended==4.4.4
+  Downloading Flask_JWT_Extended-4.4.4-py2.py3-none-any.whl (22 kB)
+Collecting iniconfig==1.1.1
+  Downloading iniconfig-1.1.1-py2.py3-none-any.whl (5.0 kB)
+Requirement already satisfied: itsdangerous==2.1.2 in c:\users\smoody\appdata\local\programs\python\python311\lib\site-packages (from -r requirements.txt (line 8)) (2.1.2)
+Requirement already satisfied: Jinja2==3.1.2 in c:\users\smoody\appdata\local\programs\python\python311\lib\site-packages (from -r requirements.txt (line 9)) (3.1.2)
+Collecting MarkupSafe==2.1.1
+  Downloading MarkupSafe-2.1.1.tar.gz (18 kB)
+  Preparing metadata (setup.py) ... done
+Collecting neo4j-driver==5.0.1
+  Downloading neo4j-driver-5.0.1.tar.gz (172 kB)
+     ---------------------------------------- 172.4/172.4 kB 10.8 MB/s eta 0:00:00
+  Preparing metadata (setup.py) ... done
+Collecting packaging==21.3
+  Downloading packaging-21.3-py3-none-any.whl (40 kB)
+     ---------------------------------------- 40.8/40.8 kB ? eta 0:00:00
+Collecting pluggy==1.0.0
+  Downloading pluggy-1.0.0-py2.py3-none-any.whl (13 kB)
+Collecting py==1.11.0
+  Downloading py-1.11.0-py2.py3-none-any.whl (98 kB)
+     ---------------------------------------- 98.7/98.7 kB ? eta 0:00:00
+Collecting PyJWT==2.5.0
+  Downloading PyJWT-2.5.0-py3-none-any.whl (20 kB)
+Requirement already satisfied: pyparsing==3.0.9 in c:\users\smoody\appdata\local\programs\python\python311\lib\site-packages (from -r requirements.txt (line 16)) (3.0.9)
+Collecting pytest==7.1.3
+  Downloading pytest-7.1.3-py3-none-any.whl (298 kB)
+     ---------------------------------------- 298.2/298.2 kB 9.0 MB/s eta 0:00:00
+Collecting python-dotenv==0.21.0
+  Downloading python_dotenv-0.21.0-py3-none-any.whl (18 kB)
+Collecting pytz==2022.2.1
+  Downloading pytz-2022.2.1-py2.py3-none-any.whl (500 kB)
+     ---------------------------------------- 500.6/500.6 kB 15.8 MB/s eta 0:00:00
+Requirement already satisfied: six==1.16.0 in c:\users\smoody\appdata\local\programs\python\python311\lib\site-packages (from -r requirements.txt (line 20)) (1.16.0)
+Collecting tomli==2.0.1
+  Downloading tomli-2.0.1-py3-none-any.whl (12 kB)
+Requirement already satisfied: Werkzeug==2.2.2 in c:\users\smoody\appdata\local\programs\python\python311\lib\site-packages (from -r requirements.txt (line 22)) (2.2.2)
+Requirement already satisfied: colorama in c:\users\smoody\appdata\local\programs\python\python311\lib\site-packages (from click==8.1.3->-r requirements.txt (line 3)) (0.4.6)
+Installing collected packages: pytz, iniconfig, tomli, python-dotenv, PyJWT, py, pluggy, packaging, neo4j-driver, MarkupSafe, bcrypt, attrs, pytest, Flask-JWT-Extended, Flask-Cors
+  Attempting uninstall: pytz
+    Found existing installation: pytz 2022.7.1
+    Uninstalling pytz-2022.7.1:
+      Successfully uninstalled pytz-2022.7.1
+  Attempting uninstall: packaging
+    Found existing installation: packaging 23.0
+    Uninstalling packaging-23.0:
+      Successfully uninstalled packaging-23.0
+  DEPRECATION: neo4j-driver is being installed using the legacy 'setup.py install' method, because it does not have a 'pyproject.toml' and the 'wheel' package is not installed. pip 23.1 will enforce this behaviour change. A possible replacement is to enable the '--use-pep517' option. Discussion can be found at https://github.com/pypa/pip/issues/8559
+  Running setup.py install for neo4j-driver ... done
+  Attempting uninstall: MarkupSafe
+    Found existing installation: MarkupSafe 2.1.2
+    Uninstalling MarkupSafe-2.1.2:
+      Successfully uninstalled MarkupSafe-2.1.2
+  DEPRECATION: MarkupSafe is being installed using the legacy 'setup.py install' method, because it does not have a 'pyproject.toml' and the 'wheel' package is not installed. pip 23.1 will enforce this behaviour change. A possible replacement is to enable the '--use-pep517' option. Discussion can be found at https://github.com/pypa/pip/issues/8559
+  Running setup.py install for MarkupSafe ... done
+Successfully installed Flask-Cors-3.0.10 Flask-JWT-Extended-4.4.4 MarkupSafe-2.1.1 PyJWT-2.5.0 attrs-22.1.0 bcrypt-4.0.0 iniconfig-1.1.1 neo4j-driver-5.0.1 packaging-21.3 pluggy-1.0.0 py-1.11.0 pytest-7.1.3 python-dotenv-0.21.0 pytz-2022.2.1 tomli-2.0.1
+
+C:\Users\smoody\PythonProject\app-python>
