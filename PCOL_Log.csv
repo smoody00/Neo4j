@@ -1,4 +1,4 @@
-﻿PipelineEvent.EventDate,PipelineEvent.EventType.EventTypeDescription,PipelineEvent.ShiftTurnoverCategory.ShiftTurnoverCategoryFullDescription,PipelineEvent.ControlDesk.ControlDeskName,PipelineEvent.Division.DivisionName,PipelineEvent.FacilityVw.FacilityName,PipelineEvent.OperatorName
+EventDate,EventTypeDescription,ShiftTurnoverCategory,ControlDesk,DivisionName,FacilityName,OperatorName
 7/1/2023 8:22,Pigging,,PChem,Bayou Ethane,GE45 ALB Dock,"Carr, Nick"
 5/18/2023 6:00,Maintenance,,PChem,Bayou Ethane,Sabine,"Carr, Nick"
 5/12/2023 8:04,Alarm,Alarms,ABA,Appalachain Basin Area,Miller Station,"LeBleu, Gerald"
