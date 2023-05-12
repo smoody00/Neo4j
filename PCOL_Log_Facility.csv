@@ -1,0 +1,297 @@
+﻿eventDate,eventTypeDescription,shiftTurnoverCategoryFullDescription,controlDeskName,divisionName,facilityName,operatorName,Identity
+7/1/2023 8:22,Pigging,,PChem,Bayou Ethane,GE45 ALB Dock,"Carr, Nick",1
+5/18/2023 6:00,Maintenance,,PChem,Bayou Ethane,Sabine,"Carr, Nick",2
+5/12/2023 8:04,Alarm,Alarms,ABA,Appalachain Basin Area,Miller Station,"LeBleu, Gerald",3
+5/12/2023 7:44,ESD / SSD / Safety Device,,OVM/LMM,Ohio Valley Midstream,Oak Grove 12 Ethane to Houston PA,"Biery, Steve",4
+5/12/2023 7:44,Start / Shutdown Event,Alarms,ABA,Appalachain Basin Area,MacNew Station,"LeBleu, Gerald",5
+5/12/2023 7:40,Shutdown,,OVM/LMM,Ohio Valley Midstream,Burch Ridge CRP,"Biery, Steve",6
+5/12/2023 7:06,Start / Shutdown Event,Alarms,ABA,Appalachain Basin Area,Zick Station,"LeBleu, Gerald",7
+5/12/2023 6:55,Start / Shutdown Event,Alarms,ABA,Appalachain Basin Area,Dunbar-NY Compressor Station,"LeBleu, Gerald",8
+5/12/2023 6:50,Tech on site,,PChem,Bayou Ethane,GE08 Sasol,"Carr, Nick",9
+5/12/2023 6:41,Start / Shutdown Event,Alarms,ABA,Appalachain Basin Area,Potter Station,"LeBleu, Gerald",10
+5/12/2023 5:53,Maintenance / Testing,Additional Shift Comments,GCA,Discovery,LaRose to Paradis PLM,"Carlile, Kevin",11
+5/12/2023 2:49,Other,,GCA,Opal,CIG King Delivery,"Thompson, Eric",17
+5/12/2023 2:28,Other,,GCA,Echo,Rex TallGrass Delivery,"Thompson, Eric",21
+5/12/2023 0:22,Start / Shutdown Event,,ABA,Appalachain Basin Area,Lathrop Station,"Corley, Joshua",22
+5/11/2023 23:35,Other,,GCA,Echo,Echo Springs Plant,"Thompson, Eric",23
+5/11/2023 23:30,Start / Shutdown Event,,ABA,Appalachain Basin Area,Teel Station,"Corley, Joshua",24
+5/11/2023 22:09,Shutdown,,OPPL,OPPL,Wray Station,"Wheeler, Dean",25
+5/11/2023 20:02,Start / Shutdown Event,,ABA,Appalachain Basin Area,Wilcox Station,"Corley, Joshua",26
+5/11/2023 20:01,Maintenance / Testing,Additional Shift Comments,GCA,Discovery,ST-283J,"Thompson, Eric",27
+5/11/2023 18:52,Maintenance / Testing,,OPPL,OPPL,Briggsdale,"Wheeler, Dean",28
+5/11/2023 18:31,Start / Shutdown Event,,ABA,Appalachain Basin Area,Church Station,"Corley, Joshua",29
+5/11/2023 18:07,ESD / SSD / Safety Device,,OVM/LMM,Laurel Mountain Midstream,Brown Compressor Station,"Barnum, Derek",30
+5/11/2023 17:41,Pigging,Additional Shift Comments,OPPL,OPPL,OPPL,"Wheeler, Dean",31
+5/11/2023 15:56,Maintenance / Testing,,OPPL,OPPL,Burdett,"Madison, Kelly",35
+5/11/2023 14:50,Start Up,,GCA,Opal,North Moxa,"Carlile, Kevin",41
+5/11/2023 14:36,Maintenance / Testing,Additional Shift Comments,GCA,Discovery,KC-875,"Carlile, Kevin",44
+5/11/2023 14:25,Start / Shutdown Event,,ABA,Appalachain Basin Area,Shields Station,"Robbins, Tommy",45
+5/11/2023 14:12,Alarm,,PChem,Bayou Ethane,GE60 Lonestar Ethane,"Carr, Nick",47
+5/11/2023 14:10,Maintenance,Maintenance,PChem,Bayou Ethane,GE25 Jeff Davis,"Carr, Nick",48
+5/11/2023 14:01,Maintenance,,PChem,HCL/NH3,DPKD Vopak,"Carr, Nick",49
+5/11/2023 12:31,Start / Shutdown Event,,ABA,Appalachain Basin Area,Fraser,"Robbins, Tommy",53
+5/11/2023 12:11,Flow change/Plan/Dev,,GCA,EGOM,Mobile Bay Plant,"Carlile, Kevin",55
+5/11/2023 11:45,Shutdown,,OVM/LMM,Laurel Mountain Midstream,Cantaral Compressor Station,"Biery, Steve",56
+5/11/2023 11:35,Tech on site,,PChem,HCL/NH3,DPKC Oxy,"Carr, Nick",57
+5/11/2023 10:21,Maintenance / Testing,Additional Shift Comments,GCA,EGOM,Devils Tower MC-773,"Carlile, Kevin",61
+5/11/2023 10:00,Maintenance / Testing,,OPPL,OPPL,Echo Springs,"Madison, Kelly",63
+5/11/2023 9:59,Maintenance / Testing,,OPPL,OPPL,Bushton,"Madison, Kelly",64
+5/11/2023 9:58,ESD / SSD / Safety Device,,OVM/LMM,Ohio Valley Midstream,Connor,"Biery, Steve",65
+5/11/2023 9:57,Pigging,,OPPL,OPPL,D.J. Lateral,"Madison, Kelly",66
+5/11/2023 8:56,Shutdown,,OVM/LMM,Ohio Valley Midstream,Pinecone,"Biery, Steve",68
+5/11/2023 7:48,Tech on site,,PChem,Bayou Ethane,GE29 Enlink Eunice,"Carr, Nick",71
+5/11/2023 6:51,Alarm,,ABA,Appalachain Basin Area,Kane Road FRP Site,"Robbins, Tommy",72
+5/11/2023 3:12,ESD / SSD / Safety Device,,OVM/LMM,Ohio Valley Midstream,Eisenbarth Station,"Barnum, Derek",82
+5/11/2023 2:45,Other,,GCA,Opal,Enterprise Mapl NGL Delivery,"Thompson, Eric",83
+5/10/2023 18:17,Tech on site,,OPPL,OPPL,Buckingham,"Wheeler, Dean",86
+5/10/2023 16:23,Start / Shutdown Event,,ABA,Appalachain Basin Area,Gibson Station,"Robbins, Tommy",90
+5/10/2023 11:51,Maintenance / Testing,,OPPL,OPPL,Ogallah,"Martin, Tony",98
+5/10/2023 10:40,Maintenance / Testing,,OPPL,OPPL,Conway,"Martin, Tony",100
+5/10/2023 10:40,Shutdown,Current Operating Plan,GCA,Discovery,GC-468,"Urbina, Alex",101
+5/10/2023 8:57,Flow change/Plan/Dev,,OPPL,OPPL,Bakken,"Martin, Tony",107
+5/10/2023 8:47,Start / Shutdown Event,,ABA,Appalachain Basin Area,White Dehy Station,"Robbins, Tommy",108
+5/10/2023 8:29,Maintenance / Testing,Maintenance,GCA,Discovery,Tetco Delivery,"Urbina, Alex",109
+5/10/2023 7:44,Shutdown,,OVM/LMM,Ohio Valley Midstream,Stillwagoner CRP,"Hulen, James",112
+5/10/2023 4:45,Other,,GCA,Discovery,WR-206,"Thompson, Eric",120
+5/9/2023 23:48,Alarm,Alarms,OPPL,Bluestem,Silver Lake Rd Block Valve,"Wheeler, Dean",131
+5/9/2023 20:11,Other,,GCA,Opal,Opal Plant,"Thompson, Eric",133
+5/9/2023 17:50,SCADA / IT,,OPPL,OPPL,McDonald,"Wheeler, Dean",136
+5/9/2023 15:46,Alarm,,ABA,Appalachain Basin Area,Central Station,"Robbins, Tommy",141
+5/9/2023 15:19,Alarm,Additional Shift Comments,OPPL,Bluestem,BSPL Conway Pump Station,"Martin, Tony",144
+5/9/2023 14:55,Shutdown,Current Operating Plan,GCA,EGOM,MP-261A,"Urbina, Alex",146
+5/9/2023 11:27,Alarm,,OPPL,OPPL,Ft. Lupton,"Martin, Tony",153
+5/9/2023 10:09,Shutdown,Additional Shift Comments,OPPL,OPPL,Platte Valley,"Martin, Tony",157
+5/9/2023 9:53,Pigging,,OPPL,OPPL,Mewbourne,"Martin, Tony",159
+5/9/2023 9:35,Alarm,Additional Shift Comments,OPPL,OPPL,Russell,"Martin, Tony",160
+5/9/2023 8:30,Tech on site,,PChem,Bayou Ethane,Flint Hills/Motiva,"Bartholomew, Adam",163
+5/9/2023 7:46,Maintenance / Testing,,OPPL,OPPL,Willow Creek,"Martin, Tony",167
+5/9/2023 3:10,ESD / SSD / Safety Device,AO/AOC,ABA,Appalachain Basin Area,Hawley Station,"Corley, Joshua",182
+5/8/2023 20:22,Communications,,GCA,EGOM,Breton Sound PLM,"Thompson, Eric",190
+5/8/2023 15:44,Line Locate / One-call,,OPPL,OPPL,Yocemento,"Martin, Tony",195
+5/8/2023 12:21,Maintenance / Testing,Maintenance,GCA,Discovery,ST-311A,"Urbina, Alex",202
+5/8/2023 11:22,Maintenance / Testing,,OPPL,OPPL,Opal,"Martin, Tony",205
+5/8/2023 9:33,Start / Shutdown Event,,ABA,Appalachain Basin Area,Jones Station,"Robbins, Tommy",213
+5/8/2023 7:31,Shutdown,Current Operating Plan,GCA,Discovery,ST-232,"Urbina, Alex",222
+5/8/2023 6:52,Shutdown,,OPPL,OPPL,Wattenburg,"Martin, Tony",224
+5/8/2023 6:40,Shutdown,,OVM/LMM,Laurel Mountain Midstream,Tenaska Station,"Hulen, James",225
+5/7/2023 19:16,Maintenance / Testing,Additional Shift Comments,GCA,WGOM,Exxon Hoover Platform,"Carlile, Kevin",236
+5/7/2023 16:51,Alarm,,OPPL,OPPL,Seguin,"Penrod, Tyler",239
+5/7/2023 11:23,Start Up,,GCA,EGOM,VK-817A,"Gragg, Dwight",249
+5/7/2023 7:39,Flow change/Plan/Dev,,OPPL,Bluestem,Bluestem Pipeline,"Penrod, Tyler",252
+5/6/2023 12:09,Communications,Line/segments out of service affecting operations,PChem,Bayou Ethane,GE52 Choctaw Storage,"Carr, Nick",275
+5/6/2023 7:56,Alarm,AO/AOC,PChem,Bayou Ethane,GE51 Brusly Pump Station,"Carr, Nick",277
+5/6/2023 5:01,Alarm,,PChem,Bayou Ethane,Choupique,"Thomas, Barry",281
+5/6/2023 3:43,3rd Party Related Item,Additional Shift Comments,PChem,Bayou Ethane,GE57 Nova,"Thomas, Barry",282
+5/5/2023 18:38,ESD / SSD / Safety Device,,OVM/LMM,Ohio Valley Midstream,Hart Station,"Biery, Steve",290
+5/5/2023 16:17,Line Locate / One-call,,GCA,Opal,Big Piney Station,"Gragg, Dwight",296
+5/5/2023 13:27,Maintenance / Testing,,OPPL,OPPL,Craig Trap,"Penrod, Tyler",304
+5/5/2023 11:00,Maintenance / Testing,,OPPL,OPPL,Lilli,"Penrod, Tyler",305
+5/5/2023 8:03,ESD / SSD / Safety Device,Alarms,OVM/LMM,Ohio Valley Midstream,Fort Beeler Gas Processing Plant,"Bennett, Nathan",314
+5/5/2023 7:23,Flow change/Plan/Dev,Additional Shift Comments,OVM/LMM,Ohio Valley Midstream,Atex,"Bennett, Nathan",315
+5/5/2023 7:02,Maintenance / Testing,,ABA,Appalachain Basin Area,Bray Interconnect,"Williams, Russell",316
+5/5/2023 3:45,Flow change/Plan/Dev,,OPPL,OPPL,Conway Underground,"Martin, Tony",321
+5/4/2023 18:26,Alarm,Alarms,GCA,Opal,Hare's Ear,"Urbina, Alex",329
+5/4/2023 9:42,Other,Additional Shift Comments,GCA,Opal,NWP Delivery,"Gragg, Dwight",349
+5/4/2023 6:34,Maintenance / Testing,,ABA,Appalachain Basin Area,Snake Creek FRP Site,"Williams, Russell",357
+5/4/2023 5:49,Shutdown Event,,PChem,Bayou Ethane,GE90 Promix Nova,"Huston, Chris",358
+5/4/2023 4:35,Alarm,Alarms,GCA,Discovery,GC-860,"Urbina, Alex",361
+5/4/2023 4:26,Alarm,,OVM/LMM,Ohio Valley Midstream,Blue Racer,"Rhodes, Albert",362
+5/3/2023 15:43,Shutdown,,GCA,EGOM,Blind Faith MC-650,"Carlile, Kevin",382
+5/3/2023 14:53,Maintenance / Testing,,OPPL,OPPL,Pierce,"Madison, Kelly",387
+5/3/2023 13:51,Maintenance / Testing,,OPPL,OPPL,Red Tail,"Madison, Kelly",389
+5/3/2023 11:28,3rd Party Related Item,,PChem,Bayou Ethane,Oneok,"Carr, Nick",391
+5/3/2023 10:52,Shutdown,,GCA,Opal,Cow Hollow,"Carlile, Kevin",392
+5/3/2023 10:36,Communications,,PChem,Bayou Ethane,Lonestar,"Carr, Nick",393
+5/3/2023 9:02,3rd Party Related Item,,PChem,HCL/NH3,BTN1 Covestro,"Carr, Nick",397
+5/3/2023 4:32,Communications,AO/AOC,OVM/LMM,Ohio Valley Midstream,Rt. 20 N. Valve Set,"Rhodes, Albert",406
+5/3/2023 0:46,Flow change/Plan/Dev,Current Operating Plan,GCA,Echo,Hansen Lake,"Urbina, Alex",413
+5/2/2023 21:14,Alarm,,OPPL,OPPL,Yuma,"Martin, Tony",416
+5/2/2023 18:06,Communications,AO/AOC,OVM/LMM,Ohio Valley Midstream,Hunter-Pethtel Station,"Rhodes, Albert",419
+5/2/2023 16:23,Alarm,Alarms,PChem,Bayou Ethane,GE85 Promix Plant,"Carr, Nick",423
+5/2/2023 15:34,Tech on site,,PChem,Bayou Ethane,GE20 Calcasieu Pump,"Carr, Nick",428
+5/2/2023 13:36,Tech on site,,PChem,Bayou Ethane,Queen Junction,"Carr, Nick",432
+5/2/2023 12:53,Maintenance / Testing,,OPPL,OPPL,Laramie,"Madison, Kelly",433
+5/2/2023 11:17,Tech on site,,PChem,Bayou Ethane,GE19 Chaission Rd,"Carr, Nick",439
+5/2/2023 9:37,Tech on site,,PChem,Bayou Ethane,GE12 Calcasieu River Perkins Ferry,"Carr, Nick",443
+5/2/2023 9:30,Line Locate / One-call,,PChem,Bayou Ethane,840 General,"Carr, Nick",444
+5/2/2023 7:23,Shutdown,,OVM/LMM,Laurel Mountain Midstream,Herminie Compressor Station,"Biery, Steve",451
+5/2/2023 6:32,ESD / SSD / Safety Device,,OVM/LMM,Ohio Valley Midstream,Taylor Station,"Biery, Steve",458
+5/1/2023 17:46,Shutdown,,OVM/LMM,Ohio Valley Midstream,Berger,"Rhodes, Albert",472
+5/1/2023 13:59,Pigging,,OPPL,OPPL,Lucerne,"Madison, Kelly",486
+5/1/2023 7:56,ESD / SSD / Safety Device,,OVM/LMM,Ohio Valley Midstream,Hicks WC,"Biery, Steve",504
+4/30/2023 13:29,Maintenance / Testing,,GCA,EGOM,Gulf Star 1 - MC-724,"Thompson, Eric",535
+4/29/2023 22:50,Shutdown,,GCA,Discovery,Kinetica Meter Site,"Gragg, Dwight",546
+4/29/2023 4:20,Alarm,,PChem,Bayou Ethane,E1 Hankamer Pump Station,"Huston, Chris",563
+4/29/2023 0:06,Other,,GCA,Echo,OPPL NGL Delivery,"Gragg, Dwight",569
+4/28/2023 12:00,Maintenance / Testing,,ABA,Appalachain Basin Area,Shaskas,"Chapman, James",592
+4/28/2023 11:19,Alarm,,OPPL,OPPL,Colby,"Wheeler, Dean",593
+4/28/2023 10:54,Maintenance / Testing,,OPPL,OPPL,Keota,"Wheeler, Dean",595
+4/28/2023 8:45,Maintenance / Testing,,ABA,Appalachain Basin Area,Northeast FRP Site,"Chapman, James",598
+4/28/2023 3:52,Communications,,OVM/LMM,Ohio Valley Midstream,Taylor 8 inch NGL Valve Set,"Biery, Steve",610
+4/28/2023 2:37,Shutdown,Alarms,OVM/LMM,Ohio Valley Midstream,Francis Station,"Biery, Steve",618
+4/28/2023 2:25,Flow change/Plan/Dev,,OVM/LMM,Ohio Valley Midstream,Moundsville Fractionation and NGL Plant,"Biery, Steve",619
+4/27/2023 21:54,3rd Party Related,,ABA,Appalachain Basin Area,Atlantic Sunrise Transco,"Stillson, Phil",623
+4/27/2023 18:40,3rd Party Related,,ABA,Appalachain Basin Area,Puddlefield,"Stillson, Phil",626
+4/27/2023 11:32,Other,,GCA,Discovery,ST-127,"Thompson, Eric",649
+4/27/2023 9:23,Maintenance / Testing,,OPPL,OPPL,Piceance Lateral,"Wheeler, Dean",657
+4/27/2023 9:21,Maintenance / Testing,,OPPL,OPPL,Walcott,"Wheeler, Dean",658
+4/26/2023 15:03,Testing/Proving/Calibration,,PChem,Bayou Ethane,GE72 Lucy,"Carr, Nick",689
+4/26/2023 14:36,Tech on site,,PChem,Bayou Ethane,GE41 LaJanie Road,"Carr, Nick",691
+4/26/2023 9:52,Maintenance / Testing,,OPPL,OPPL,Keenesburg,"Penrod, Tyler",700
+4/26/2023 9:45,Maintenance / Testing,,GCA,WGOM,GA-244,"Gragg, Dwight",702
+4/26/2023 9:30,Maintenance / Testing,,GCA,Discovery,EB-834,"Gragg, Dwight",704
+4/26/2023 7:25,Pigging,Alarms,OVM/LMM,Laurel Mountain Midstream,Monarch Compressor Station,"Bennett, Nathan",712
+4/26/2023 3:22,Compressors / Pumps,,ABA,Appalachain Basin Area,Station 605,"Stillson, Phil",723
+4/25/2023 15:34,Alarm,,OPPL,Bluestem,Cimarron River Block Valve,"Penrod, Tyler",743
+4/25/2023 15:31,Maintenance / Testing,,OPPL,OPPL,Hereford Ranch,"Penrod, Tyler",744
+4/25/2023 15:20,Alarm,,OPPL,OPPL,OPPL PLM,"Penrod, Tyler",746
+4/25/2023 12:05,Maintenance / Testing,,GCA,WGOM,Markham Cryo Plant,"Gragg, Dwight",751
+4/25/2023 11:18,Maintenance / Testing,,OPPL,OPPL,Centennial,"Penrod, Tyler",756
+4/25/2023 10:04,Shutdown,Alarms,OVM/LMM,Laurel Mountain Midstream,Shamrock Connect and Compressor Station,"Bennett, Nathan",757
+4/25/2023 9:21,Maintenance / Testing,,OPPL,OPPL,New Raymer,"Penrod, Tyler",758
+4/24/2023 16:13,Other,Additional Shift Comments,GCA,Opal,Enterprise (Pinedale & Jonah Field),"Gragg, Dwight",790
+4/24/2023 11:55,Shutdown,,GCA,WGOM,Poole Rd Delivery (Transco),"Gragg, Dwight",799
+4/24/2023 11:15,Maintenance / Testing,,OPPL,OPPL,Chalks Bluff,"Penrod, Tyler",801
+4/23/2023 11:10,Alarm,,OVM/LMM,Ohio Valley Midstream,Corley CRP,"Rhodes, Albert",848
+4/23/2023 9:06,Shutdown,,GCA,WGOM,T-Rex Flow,"Arrington, Kevin",849
+4/23/2023 9:03,Shutdown,,GCA,EGOM,Appomattox MC 437a,"Arrington, Kevin",850
+4/22/2023 16:01,Maintenance / Testing,,GCA,WGOM,GA A244 Oil,"Arrington, Kevin",873
+4/22/2023 11:23,Maintenance / Testing,,OPPL,OPPL,Kent Ranch,"Martin, Tony",885
+4/21/2023 11:42,Communications,Maintenance,GCA,Discovery,LaRose Cyro Plant,"Arrington, Kevin",919
+4/20/2023 22:01,Flow Change,,PChem,Bayou Ethane,BASF,"Carr, Nick",946
+4/20/2023 10:56,Maintenance / Testing,,OPPL,OPPL,Blacks Fork,"Martin, Tony",971
+4/20/2023 6:56,Pig Run,,PChem,Bayou Ethane,GE33 HWY 3068,"Carr, Nick",984
+4/20/2023 3:24,Other,,GCA,WGOM,Transco Sta. 30,"Gragg, Dwight",1000
+4/19/2023 10:25,Alarm,,OVM/LMM,Ohio Valley Midstream,Monarch Pipeline,"Barnum, Derek",1031
+4/19/2023 3:08,Other,,GCA,WGOM,East Breaks PLM,"Gragg, Dwight",1058
+4/18/2023 17:02,Alarm,,OPPL,Bluestem,Milton Block Valve,"Wheeler, Dean",1066
+4/18/2023 12:05,Communications,Additional Shift Comments,GCA,Discovery,"Discovery 30"" Valve Site 2","Carlile, Kevin",1083
+4/18/2023 10:30,Maintenance / Testing,Additional Shift Comments,GCA,Opal,Kern River Delivery,"Carlile, Kevin",1086
+4/18/2023 9:54,Line Locate / One-call,Emergencies,GCA,WGOM,Transco Main Line (To Sta. 30),"Carlile, Kevin",1090
+4/18/2023 7:50,Alarm,,GCA,WGOM,Quintana Tanks (Oil),"Carlile, Kevin",1097
+4/18/2023 7:17,Flow change/Plan/Dev,,GCA,WGOM,KMET/Clemville Liquids PL,"Carlile, Kevin",1099
+4/18/2023 6:11,Communications,,OPPL,OPPL,White River,"Wheeler, Dean",1106
+4/17/2023 18:51,Other,,GCA,WGOM,Transco Delivery,"Gragg, Dwight",1124
+4/17/2023 16:16,Maintenance / Testing,,OPPL,OPPL,I-25,"Wheeler, Dean",1127
+4/17/2023 13:23,Maintenance / Testing,,OPPL,OPPL,Harriman,"Wheeler, Dean",1135
+4/17/2023 11:36,Maintenance / Testing,,OPPL,Bluestem,Conway Launcher,"Wheeler, Dean",1141
+4/16/2023 16:00,Shutdown,,OVM/LMM,Ohio Valley Midstream,Blue Racer/Huff Ridge,"Rhodes, Albert",1177
+4/16/2023 4:54,Alarm,,OPPL,OPPL,Quinter,"Martin, Tony",1195
+4/15/2023 15:20,Alarm,,GCA,Discovery,PAC Valve Site,"Carlile, Kevin",1214
+4/15/2023 8:20,3rd Party Related,Additional Shift Comments,GCA,Discovery,"Boutte 6""","Carlile, Kevin",1222
+4/14/2023 18:16,Flow change/Plan/Dev,,GCA,Echo,CIG WIC Delivery,"Arrington, Kevin",1238
+4/13/2023 18:54,Shutdown,,OVM/LMM,Ohio Valley Midstream,Nice-Potts CRP,"Barnum, Derek",1293
+4/13/2023 11:37,Maintenance / Testing,,GCA,Opal,CrossTimbers,"Carlile, Kevin",1313
+4/13/2023 8:00,Maintenance / Testing,,RMA,Texas,Deerpark,"Thomas, Barry",1321
+4/13/2023 6:29,Shutdown,Additional Shift Comments,GCA,Discovery,Tahiti GC-641,"Carlile, Kevin",1329
+4/12/2023 23:55,Flow change/Plan/Dev,,OVM/LMM,Ohio Valley Midstream,Oak Grove Gas Processing Plant,"Barnum, Derek",1342
+4/12/2023 14:15,Communications,,ABA,Appalachain Basin Area,Lane Road FRP Site,"Robbins, Tommy",1360
+4/12/2023 10:57,Shutdown,Additional Shift Comments,GCA,WGOM,Perdido (Oil & Gas),"Arrington, Kevin",1365
+4/12/2023 8:12,Shutdown,,OVM/LMM,Ohio Valley Midstream,WGGS Valve Set,"Rhodes, Albert",1382
+4/12/2023 7:53,Alarm,,OVM/LMM,Ohio Valley Midstream,Lackawanna Pad,"Rhodes, Albert",1385
+4/12/2023 6:44,Shutdown,,GCA,Discovery,EB-873,"Arrington, Kevin",1391
+4/12/2023 2:36,Shutdown,,OVM/LMM,Ohio Valley Midstream,Mariner East,"Barnum, Derek",1401
+4/12/2023 0:31,Shutdown,,OVM/LMM,Ohio Valley Midstream,Claysville Interconnect,"Barnum, Derek",1402
+4/11/2023 21:01,Tech on site,,OVM/LMM,Ohio Valley Midstream,Scio,"Barnum, Derek",1406
+4/11/2023 7:47,Shutdown,,OVM/LMM,Ohio Valley Midstream,Bardall Station,"Rhodes, Albert",1448
+4/10/2023 11:50,Maintenance / Testing,,OPPL,OPPL,Grover,"Martin, Tony",1489
+4/10/2023 6:52,Maintenance,,PChem,Bayou Ethane,D3 Pump,"Carr, Nick",1514
+4/10/2023 6:00,Maintenance / Testing,,RMA,Texas,ORG3 D3 Pump,"Carr, Nick",1516
+4/8/2023 18:38,Flow change/Plan/Dev,,GCA,Opal,Questar Overthrust Delivery,"Carlile, Kevin",1546
+4/8/2023 14:22,Other,,GCA,Discovery,ST-23,"Gragg, Dwight",1555
+4/7/2023 10:31,Alarm,,OPPL,Bluestem,Salt Fork River Block Valve,"Penrod, Tyler",1588
+4/6/2023 23:26,Maintenance / Testing,,OVM/LMM,Ohio Valley Midstream,Ethane MLV's,"Rhodes, Albert",1605
+4/6/2023 14:43,Maintenance / Testing,,RMA,Gulf Ethane,Choctaw Storage,"Huston, Chris",1625
+4/6/2023 9:25,Other,Additional Shift Comments,GCA,Echo,CIG Master Meter Delivery,"Gragg, Dwight",1633
+4/6/2023 6:47,Maintenance / Testing,,RMA,Gulf Ethane,Brusly Pump Station,"Huston, Chris",1638
+4/5/2023 21:38,Alarm,Alarms,GCA,WGOM,Peridido Oil,"Urbina, Alex",1651
+4/5/2023 8:00,Maintenance / Testing,,RMA,Gulf Ethane,Jeff Davis Pump Station,"Thomas, Barry",1680
+4/5/2023 5:51,3rd Party Related,Maintenance,RMA,Gulf Ethane,Enlink Eunice,"Thomas, Barry",1683
+4/5/2023 5:32,Flow change/Plan/Dev,,OVM/LMM,Ohio Valley Midstream,Leach Express,"Biery, Steve",1685
+4/4/2023 14:33,Start Up,Additional Shift Comments,GCA,EGOM,VK-251,"Carlile, Kevin",1715
+4/4/2023 4:56,Shutdown,Additional Shift Comments,GCA,EGOM,Who Dat MC 547,"Arrington, Kevin",1748
+4/3/2023 13:32,Maintenance / Testing,,OPPL,OPPL,Gilcrest,"Madison, Kelly",1785
+4/3/2023 11:22,Maintenance / Testing,,OPPL,OPPL,St. Francis,"Madison, Kelly",1791
+4/3/2023 11:00,Maintenance / Testing,,RMA,Texas,Korbe JNCT,"Thomas, Barry",1792
+4/3/2023 9:29,Maintenance / Testing,,RMA,Gulf Ethane,Calcasieu Pump Station,"Thomas, Barry",1797
+4/2/2023 6:40,Flow change/Plan/Dev,,GCA,Opal,CIG Ruby Delivery,"Thompson, Eric",1837
+3/29/2023 14:13,Other,Additional Shift Comments,GCA,Echo,High Point,"Williams, Kindrick",1984
+3/29/2023 12:25,Maintenance / Testing,Additional Shift Comments,GCA,Discovery,ST-37,"Williams, Kindrick",1987
+3/29/2023 7:29,Maintenance / Testing,,RMA,Gulf Ethane,Mossville,"Huston, Chris",1999
+3/29/2023 5:45,Maintenance / Testing,Additional Shift Comments,GCA,Discovery,ST-308,"Williams, Kindrick",2004
+3/28/2023 15:23,Alarm,Alarms,GCA,Opal,South Moxa,"Williams, Kindrick",2018
+3/28/2023 6:32,Flow change/Plan/Dev,Alarms,OVM/LMM,Ohio Valley Midstream,Oak Grove 8 inch NGL Valve Set,"Bennett, Nathan",2056
+3/28/2023 0:54,Flow change/Plan/Dev,,OVM/LMM,Ohio Valley Midstream,Mariner West,"Biery, Steve",2071
+3/27/2023 23:55,Shutdown,,RMA,Texas,Ammonia Booster Pump,"Thomas, Barry",2073
+3/27/2023 13:20,Communications,AO/AOC,GCA,Discovery,BM-3 Bay Marchand,"Williams, Kindrick",2083
+3/27/2023 10:25,Maintenance / Testing,,OPPL,Bluestem,Kingfisher Trap & BSPL SDV,"Penrod, Tyler",2090
+3/26/2023 6:33,Alarm,Alarms,GCA,EGOM,MP-313A,"Arrington, Kevin",2134
+3/25/2023 21:05,Alarm,,OVM/LMM,Ohio Valley Midstream,Antero Tyler,"Barnum, Derek",2147
+3/25/2023 3:12,Other,,GCA,WGOM,DCP/SeaBreeze Liquids PL,"Thompson, Eric",2190
+3/24/2023 8:58,Alarm,,ABA,Appalachain Basin Area,Sickler FRP Site,"Robbins, Tommy",2214
+3/22/2023 16:06,Start Up,Additional Shift Comments,RMA,Texas,E1 Pump Station,"Carr, Nick",2308
+3/22/2023 10:59,Maintenance / Testing,,RMA,Texas,HAT/DPKD,"Carr, Nick",2326
+3/22/2023 8:38,Maintenance / Testing,,RMA,Texas,Flint Hills,"Carr, Nick",2333
+3/21/2023 15:49,Communications,,OVM/LMM,Ohio Valley Midstream,"Ft. Beeler 8"" NGL","Barnum, Derek",2370
+3/21/2023 14:40,Maintenance / Testing,,RMA,Texas,PTR2 D2 Pump,"Carr, Nick",2372
+3/21/2023 13:34,Maintenance / Testing,,GCA,Opal,Birch,"Thompson, Eric",2375
+3/21/2023 10:21,Maintenance / Testing,,RMA,Gulf Ethane,Targa Gillis,"Carr, Nick",2385
+3/21/2023 9:43,Pigging,Maintenance,OPPL,Bluestem,Bluff City Launch/Receiver,"Wheeler, Dean",2389
+3/21/2023 9:30,Maintenance / Testing,,RMA,Gulf Ethane,Sasol,"Carr, Nick",2391
+3/21/2023 7:58,Start Up,Current Operating Plan,RMA,Gulf Ethane,Nova Geismar,"Carr, Nick",2396
+3/20/2023 9:19,Maintenance / Testing,,RMA,Texas,Lake Charles,"Carr, Nick",2436
+3/20/2023 7:19,Maintenance / Testing,Current Operating Plan,RMA,Rocky Mountain Area,Parachute Creek,"Carr, Nick",2450
+3/19/2023 9:15,Shutdown,,RMA,Texas,Covestro/Bayer-Ammonia,"Thomas, Barry",2478
+3/19/2023 6:00,Shutdown,,RMA,Rocky Mountain Area,Willow Creek Plant,"Thomas, Barry",2484
+3/16/2023 10:07,Maintenance / Testing,,RMA,Texas,Orange,"Thomas, Barry",2594
+3/15/2023 14:39,Maintenance / Testing,,OVM/LMM,Ohio Valley Midstream,Whipkey Station,"Rhodes, Albert",2627
+3/12/2023 15:36,SCADA / IT,,GCA,Discovery,Raceland Lateral (Transco),"Gragg, Dwight",2766
+3/9/2023 9:38,Communications,AO/AOC,GCA,Discovery,"Paradis 3""","Williams, Kindrick",2857
+3/7/2023 18:17,Alarm,Alarms,GCA,WGOM,Other,"Urbina, Alex",2945
+3/7/2023 11:13,Maintenance / Testing,,RMA,Texas,Queen JNCT,"Thomas, Barry",2959
+3/7/2023 11:12,Maintenance / Testing,,RMA,Texas,SRWW,"Thomas, Barry",2960
+3/7/2023 7:36,Shutdown,,RMA,Parachute Greasewood Express,Parachute PGX,"Thomas, Barry",2975
+3/6/2023 10:39,Maintenance / Testing,,RMA,Texas,Gum Island,"Thomas, Barry",3018
+3/4/2023 21:02,Communications,AO/AOC,GCA,WGOM,Nansen Gas,"Williams, Kindrick",3063
+3/4/2023 19:02,Alarm,Alarms,GCA,Echo,Pre-Compression,"Williams, Kindrick",3064
+3/4/2023 18:13,Communications,AO/AOC,ABA,Appalachain Basin Area,UGI Anderson,"Williams, Russell",3065
+3/3/2023 1:27,ESD / SSD / Safety Device,Alarms,OVM/LMM,Ohio Valley Midstream,Eisenbarth Valve Set,"Biery, Steve",3137
+3/1/2023 16:01,Maintenance / Testing,,RMA,Parachute Greasewood Express,Willow Creek PGX,"Carr, Nick",3190
+3/1/2023 16:00,Communications,AO/AOC,GCA,Discovery,GC-338,"Williams, Kindrick",3191
+2/28/2023 22:15,ESD / SSD / Safety Device,Maintenance,OVM/LMM,Ohio Valley Midstream,Curry Station,"Biery, Steve",3233
+2/27/2023 5:30,Communications,AO/AOC,ABA,Appalachain Basin Area,McGregor Interconnect,"Williams, Russell",3314
+2/25/2023 20:23,Communications,,GCA,Echo,Southern Star Delivery,"Thompson, Eric",3355
+2/25/2023 3:44,Other,,GCA,Opal,Lincoln Road,"Thompson, Eric",3388
+2/22/2023 19:24,Communications,,ABA,Appalachain Basin Area,UGI OXbow,"Williams, Russell",3510
+2/22/2023 8:34,Maintenance / Testing,,RMA,Gulf Ethane,Promix Plant,"Carr, Nick",3536
+2/22/2023 7:36,Maintenance / Testing,,RMA,Texas,HAN1 D1 Pump,"Carr, Nick",3541
+2/21/2023 11:12,Communications,Additional Shift Comments,GCA,Opal,Denbury Pipeline,"Van Ranken, Mack",3581
+2/18/2023 11:13,Flow change/Plan/Dev,Additional Shift Comments,RMA,Rocky Mountain Area,Wic Rio Blanco Delivery,"Thomas, Barry",3704
+2/18/2023 3:20,Shutdown,,GCA,WGOM,Perdido Gas,"Arrington, Kevin",3718
+2/17/2023 7:40,3rd Party Related,,ABA,Appalachain Basin Area,Malina TGP,"Stillson, Phil",3747
+2/17/2023 7:17,Communications,Additional Shift Comments,GCA,Echo,Patrick Draw Delivery,"Van Ranken, Mack",3749
+2/16/2023 22:02,Other,,GCA,Echo,Monument Lake,"Thompson, Eric",3768
+2/16/2023 8:38,Maintenance / Testing,,RMA,Texas,Huntsman,"Thomas, Barry",3807
+2/11/2023 8:52,Communications,AO/AOC,GCA,Discovery,Lake Barre,"Carlile, Kevin",4045
+2/10/2023 16:28,Maintenance / Testing,,RMA,Texas,OXY-VINYL,"Carr, Nick",4070
+2/9/2023 4:10,Pigging,,GCA,WGOM,Transco Sta. 24,"Arrington, Kevin",4176
+2/8/2023 14:35,Maintenance / Testing,,RMA,Texas,Ammonia Line General,"Thomas, Barry",4204
+2/8/2023 14:20,Shutdown,Current Operating Plan,RMA,Rocky Mountain Area,West Rifle PSCO Delivery,"Thomas, Barry",4205
+2/8/2023 14:02,Maintenance / Testing,,RMA,Texas,Cedar Bayou/Ammonia,"Thomas, Barry",4207
+2/8/2023 13:21,Maintenance / Testing,,RMA,Texas,Tabbs Bay/Ammonia,"Thomas, Barry",4209
+2/8/2023 12:46,Flow change/Plan/Dev,Additional Shift Comments,GCA,WGOM,Gunnison Oil,"Van Ranken, Mack",4210
+2/8/2023 11:00,Maintenance / Testing,,RMA,Gulf Ethane,Paradis Plant,"Thomas, Barry",4214
+2/8/2023 10:14,Maintenance / Testing,,GCA,Discovery,0700 Meters,"Van Ranken, Mack",4220
+2/4/2023 22:34,Shutdown,,RMA,Texas,E2 Pump Station,"Carr, Nick",4394
+2/4/2023 10:33,Other,,GCA,Discovery,GI-115,"Thompson, Eric",4411
+2/2/2023 12:55,Alarm,,OVM/LMM,Ohio Valley Midstream,Oak Grove RVP-12,"Barnum, Derek",4497
+2/1/2023 13:59,Maintenance / Testing,,OPPL,Bluestem,S. Fork Ninnescah River Block Valve,"Penrod, Tyler",4558
+2/1/2023 13:45,Maintenance / Testing,,OPPL,Bluestem,N. Fork Ninnescah River Block Valve,"Penrod, Tyler",4559
+2/1/2023 13:10,Tech on site,,RMA,Texas,Covestro/Bayer-HCL,"Carr, Nick",4562
+2/1/2023 12:12,Maintenance / Testing,,OPPL,Bluestem,Arkansas River Block Valve,"Penrod, Tyler",4568
+1/31/2023 19:27,Start Up,Current Operating Plan,RMA,Texas,HCL line General,"Thomas, Barry",4602
+1/30/2023 2:40,Other,,GCA,Echo,Frewen Lake,"Thompson, Eric",4688
+1/28/2023 9:14,Shutdown,,OVM/LMM,Ohio Valley Midstream,Proctor Ridge,"Rhodes, Albert",4737
+1/26/2023 20:00,Alarm,,RMA,Texas,HW 73,"Carr, Nick",4794
+1/25/2023 20:44,Communications,AO/AOC,RMA,Parachute Greasewood Express,Grand Valley PGX,"Carr, Nick",4847
+1/24/2023 18:20,Other,Additional Shift Comments,GCA,Echo,8 Mile Lake,"Gragg, Dwight",4911
