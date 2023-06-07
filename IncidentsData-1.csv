@@ -1,0 +1,79 @@
+﻿Number,Parent #,Priority,Opened by,Assigned to,Title,Opened,Outage Number,Problem ID,Description,Outages per Incident
+INC1391340,,P2 - High,Pagerduty Integration,Damon Tigart,PagerDuty: G&P OPC ACM Watchdog - GS to ACM DB Connection Lost - ACM02 DB Watchdog,6/6/2023 12:05:10 AM,,,,1
+INC1391339,,P2 - High,Pagerduty Integration,Damon Tigart,PagerDuty: G&P OPC ACM Watchdog - GS to ACM DB Connection Lost - ACM01 DB Watchdog,6/6/2023 12:05:07 AM,,,,1
+INC1390648,,P2 - High,Pagerduty Integration,Mack Van Ranken,See INC1390647 for details,6/2/2023 10:30:07 AM,,,,1
+INC1390647,INC1390728,P2 - High,Pagerduty Integration,William Allen,Watchdog on DCXPWGPGEOS01,6/2/2023 10:30:05 AM,OUTAGE002847,,,1
+INC1383238,,P2 - High,Pagerduty Integration,Damon Tigart,PagerDuty: G&P ACM Watchdog - ACM to GeoSCADA Connection Lost - ACM02 GS Min Since Poll,5/8/2023 8:22:09 AM,,,#NoOutage,1
+INC1382665,INC1382659,P2 - High,Freyja Harris,Freyja Harris,Wattenburg and Briggsdale Incorrect Pump Status,5/4/2023 4:05:16 PM,,,"Wattenburg and Briggsdale have pumps that are not running in the field but show a status of ""Running"" in SCADA.",1
+INC1375679,,P2 - High,Pagerduty Integration,Brittany Gay,PagerDuty: Server Watchdog Alert - Transmission ClearSCADA Server Down (HOUPWTRNGEOS04),4/9/2023 10:20:22 PM,OUTAGE002843,,,1
+INC1374858,,P2 - High,Grant Gandy,Grant Gandy,TULPWGPGEOS03 Server Crashed,4/5/2023 11:53:47 AM,OUTAGE002833,,Performance server crashed and is offline.,1
+INC1367982,,P2 - High,Pagerduty Integration,Brittany Gay,PagerDuty: Server Watchdog Alert - Transmission ClearSCADA Server Down (HOUPWTRNGEOS04),3/12/2023 9:35:24 PM,,,#NoOutage,1
+INC1367393,,P2 - High,Pagerduty Integration,,PagerDuty: OPC KEP02 Watchdog - KEP02 to ClearSCADA Connection Lost - CRITICAL,3/9/2023 11:13:15 AM,,,#NoOutage,1
+INC1367208,,P2 - High,Cole Bundy,Cole Bundy,G&P Controllers unable to send Set Point Commands,3/8/2023 2:51:30 PM,OUTAGE002832,,Controllers are reporting that setpoint commands are not making it to field devices,1
+INC1363170,,P2 - High,Pagerduty Integration,Greg Porter,PagerDuty: Server Watchdog Alert - Transmission ClearSCADA Server Down (DCXPWTRNGEOS01),2/23/2023 8:20:29 AM,,,"#NoOutage
+Transmission ClearSCADA Server Down (DCXPWTRNGEOS01)",1
+INC1362550,,P2 - High,Pagerduty Integration,Grant Gandy,PagerDuty: OPC KEP02 Watchdog - KEP02 to ClearSCADA Connection Lost - CRITICAL,2/21/2023 10:25:33 AM,,,#NoOutage,1
+INC1358015,INC1357629,P2 - High,John Rivas,NOC User,share not available,2/6/2023 11:22:36 AM,,,"#NoOutage (does not affect PC)
+Received from: Mark.Gulick@williams.com on 2023-02-06 11:04:16
+Other recipients: ITGasMeasurement@Williams.com,FLOWCALSupport@Williams.com,Lindsay.Barbour@williams.com
+
+Good morning;
+
+We had a job fail yesterday and it appears that the share \\wgpslc03\fadata\Lap Tops\<file://wgpslc03/fadata/Lap%20Tops/>  is not available.  I did a ping and it looks like the NAS is down.  This share is needed by the Measurement group for close which is tomorrow so this is a high priority.
+
+Thank you
+
+Gulick",1
+INC1349048,,P2 - High,Pagerduty Integration,Leo Cazares,GCA/SWW/WAM ClearSCADA- Oncall- All leak detection is down,1/4/2023 9:40:39 PM,OUTAGE002831,,Mack Van Ranken called reporting that at shift change no one's Leak Detection wasn't working and reported issue to Ali Almatar.,1
+INC1347568,,P2 - High,Pagerduty Integration,Greg Porter,PagerDuty: Server Watchdog Alert - Transmission ClearSCADA Server Down (TULPWTRNGEOS02),12/26/2022 9:50:36 PM,,,#NoOutage,1
+INC1345544,INC1345629,P2 - High,Pagerduty Integration,Charlie Hurst,Eastern Interstates ClearSCADA-  Duplicate of INC1345629,12/14/2022 2:23:29 PM,,,#NoOutage,1
+INC1342025,,P2 - High,Pagerduty Integration,David Rice,PagerDuty: OPC KEP02 Watchdog - KEP02 to ClearSCADA Connection Lost - CRITICAL,11/29/2022 5:43:16 AM,,,#NoOutage,1
+INC1342008,,P2 - High,Pagerduty Integration,Damon Tigart,PagerDuty: OPC KEP02 Watchdog - KEP02 to ClearSCADA Connection Lost - CRITICAL,11/29/2022 4:05:57 AM,,,#NoOutage,1
+INC1340201,INC1340144,P2 - High,Pagerduty Integration,Joe Parker,PagerDuty: OPC ACM Watchdog - ACM Client Count -,11/17/2022 8:00:20 AM,,,,1
+INC1340148,INC1340144,P2 - High,Pagerduty Integration,,PagerDuty: Server Watchdog Alert - Transmission ClearSCADA Server Down (DCXPWTRNGEOS01),11/17/2022 6:47:07 AM,,,,1
+INC1339979,INC1340144,P2 - High,Pagerduty Integration,,PagerDuty: OPC KEP01 Watchdog - KEP01 to ClearSCADA Connection Lost - CRITICAL,11/17/2022 6:13:30 AM,,,,1
+INC1339976,INC1340144,P2 - High,Pagerduty Integration,Joe Parker,PagerDuty: OPC KEP02 Watchdog - KEP02 to ClearSCADA Connection Lost - CRITICAL,11/17/2022 6:13:07 AM,,,,1
+INC1339919,,P2 - High,Michael Pittser,Devin Barnes,Fileshare withness down,11/17/2022 1:24:18 AM,,,"#NoOutage
+The server appears to be up and running.  AG on GP is in the same state it was last night / yesterday morning.  We were getting warning that the file share witness is unavailable.  Doesn't look like the cluster will start back up until the witness is back.  We can't lose 2 of the 3 nodes and the cluster stay in a good state.
+
+File share witness resource 'File Share Witness' failed to arbitrate for the file share '\\HOUPWTRNCLS04\WITNESS\ACMGP_CLUS_P'. Please ensure that file share '\\HOUPWTRNCLS04\WITNESS\ACMGP_CLUS_P' exists and is accessible by the cluster.
+
+Node 'TULPWSQLWASGP01' failed to form a cluster. This was because the witness was not accessible. Please ensure that the witness resource is online and available.
+
+Thanks,
+Chris Brady",1
+INC1339757,,P2 - High,Pagerduty Integration,Cole Bundy,PagerDuty: Server Watchdog Alert - Transmission ClearSCADA Server Down (TULPWTRNGEOS04),11/17/2022 12:13:19 AM,,,#NoOutage,1
+INC1339755,,P2 - High,Pagerduty Integration,Cole Bundy,PagerDuty: Server Watchdog Alert - Transmission ClearSCADA Server Down (TULPWTRNGEOS01),11/17/2022 12:13:17 AM,,,#NoOutage,1
+INC1339754,,P2 - High,Pagerduty Integration,Cole Bundy,PagerDuty: Server Watchdog Alert - Transmission ClearSCADA Server Down (TULPWTRNGEOS02),11/17/2022 12:13:16 AM,,,#NoOutage,1
+INC1339138,INC1339583,P1 - Critical,Pagerduty Integration,Cole Bundy,"Eastern Interstates ClearSCADA- All control room screens are blank, not able to see any data",11/15/2022 11:32:23 PM,,,Bill called about the controllers not able to see any data in clearscada,1
+INC1338811,,P2 - High,Mahesh Kumar Thota,Damon Tigart,TULSA CONTROL ROOM  FIREWALL ISSUE -  PIpeline Control Unable To Access  Leak Detection Through Visual Pipeline GUI,11/15/2022 6:22:32 AM,,,"User was unable to access visual pipeline, took the remote and user is getting an error occurred , closing the application an error occurred attached screen shot",1
+INC1332776,,P2 - High,Pagerduty Integration,Brittany Gay,PagerDuty: Server Watchdog Alert - Transmission ClearSCADA Server Down (HOUPWTRNCLS04),10/26/2022 7:05:24 PM,,,,1
+INC1332774,,P2 - High,Pagerduty Integration,Brittany Gay,PagerDuty: Server Watchdog Alert - Transmission ClearSCADA Server Down (TULPWTRNCLS01),10/26/2022 7:05:23 PM,,,#NoOutage,1
+INC1332775,,P2 - High,Pagerduty Integration,Brittany Gay,PagerDuty: Server Watchdog Alert - Transmission ClearSCADA Server Down (TULPWTRNCLS04),10/26/2022 7:05:23 PM,,,,1
+INC1327412,,P2 - High,Peyton Sidders,Peyton Sidders,NWP and EI desks frozen,10/5/2022 12:14:26 PM,,PRB0006118,Both NWP and EI desks were completely frozen for approx. 10 minutes caused by the database locks and a failover.,1
+INC1324400,,P2 - High,Pagerduty Integration,,Eastern Interstates ClearSCADA-Leak Detection losing communications for TRW,9/22/2022 2:38:40 AM,,,James Hoover called reporting Leak Detection losing communications going from Tulp to Dcx starting at 2:08am.,1
+INC1323822,,P2 - High,Cheyanne Smith,Chris Brady,SCADA data not publishing downstream,9/20/2022 6:42:16 AM,,,"#NoOutage
+Issue - SCADA data not publishing downstream.
+
+Impact - The ACM records were not publishing to the FLOWCAL transaction queue due to the ACM databases being down. SCADA/ACM is upstream of FLOWCAL and so the missing data impacted the FLOWCAL app team because they were unable to send data downstream to the accounting systems 1Line, Passage, and GASKIT.
+
+Resolution - DBA team has removed the Databases out of the Availability Groups in order to bring them back online. Then they have performed a backup and integrity check to verify there was no corruption in the backend. Currently, team is working now to add the databases back to the Availability Groups.",1
+INC1315747,,P2 - High,Pagerduty Integration,Dalton Green,PagerDuty: Server Watchdog Alert - Transmission ClearSCADA Server Down (DCXPWTRNCLS01),8/16/2022 12:45:19 PM,,,#NoOutage,1
+INC1315516,,P1 - Critical,Brittany Gay,Grant Gandy,Leak Detection down on UEO and OVM,8/15/2022 4:35:56 PM,OUTAGE002729,PRB0006060,OUTAGE002770 (We cannot get this to show up in the Outages tab on this Incident.,2
+INC1315516,,P1 - Critical,Brittany Gay,Grant Gandy,Leak Detection down on UEO and OVM,8/15/2022 4:35:56 PM,OUTAGE002770,PRB0006060,OUTAGE002770 (We cannot get this to show up in the Outages tab on this Incident.,2
+INC1309534,,P2 - High,Pagerduty Integration,Damon Tigart,PagerDuty: OPC ACM Watchdog - ACM Client Count - GP ACM01 Client Count,7/26/2022 6:12:53 PM,,,#NoOutage,1
+INC1309429,,P2 - High,Pagerduty Integration,Damon Tigart,PagerDuty: OPC ACM Watchdog - ACM Client Count - GP ACM02 Client Count,7/26/2022 2:11:11 PM,,,#NoOutage,1
+INC1305544,,P2 - High,Pagerduty Integration,Brittany Gay,PagerDuty: OPC ACM Watchdog - ACM to ClearSCADA Connection Lost - CRITICAL,7/14/2022 2:05:05 PM,,,#NoOutage,1
+INC1301253,,P2 - High,Pagerduty Integration,Cole Bundy,PagerDuty: OPC ACM Watchdog - ACM Client Count -,6/29/2022 1:31:45 AM,,,#NoOutage,1
+INC1301134,,P2 - High,Pagerduty Integration,Cole Bundy,PagerDuty: Server Watchdog Alert - Transmission ClearSCADA Server Down (HOUPWTRNCLS04),6/28/2022 2:20:30 PM,,,#NoOutage,1
+INC1301133,,P2 - High,Pagerduty Integration,Cole Bundy,PagerDuty: Server Watchdog Alert - Transmission ClearSCADA Server Down (HOUPWTRNCLS03),6/28/2022 2:20:29 PM,,,#NoOutage,1
+INC1300331,,P2 - High,Pagerduty Integration,Dalton Green,PagerDuty: OPC ACM Watchdog - ACM Client Count - GP ACM01 Client Count,6/25/2022 10:23:47 AM,,,#NoOutage,1
+INC1300248,,P2 - High,Pagerduty Integration,Gouthami Vudayaraju,ORSH-OVM/LMM OnCall- Widespread Comm outages across G&P control room,6/24/2022 5:22:01 PM,,,"I received the first call from Roger at 17:24 complaining about all of the OVM gas trends being flatlined, then I received calls from all the other Tulsa consoles regarding communication outages.",1
+INC1298489,,P2 - High,Pagerduty Integration,Leo Cazares,Eastern Interstates ClearSCADA- SCADA moving slow on Eastern Interstates consoles,6/19/2022 8:41:29 PM,,,"Williams Keys called reporting that SCADA starting moving slow for all console at shift changed has been getting worse as the evening progress 
+- Getting white boxes when trying to navigate through screens & Setpoint are lacking around 8 seconds 
+
+Called Chuck Smith he going to look into it 
+Called Pipeline Control gave Williams an update.",1
+,,,,,,,,,,
+"Applied filters:
+opened_at 6/8/2022 - 6/7/2023",,,,,,,,,,
