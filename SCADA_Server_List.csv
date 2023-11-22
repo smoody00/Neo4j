@@ -1,4 +1,4 @@
-﻿Server Name,IP Address,Description,SCADA System,Domain,Connected,Maintained,Fully Qualified,Location,OS Installation,MS Office,Other Software,NOTES,Distribute TGPL GRAPHICS
+﻿Server_Name,IP_Address,Description,SCADA_System,Domain,Connected,Maintained,Fully_Qualified,Location,OS_Installation,MS_Office,Other_Software,NOTES,Distribute_TGPL_GRAPHICS
 bccgas1,172.30.9.37 ,Atlantic Gulf Backup GMAS,Transco SCADA,TGPLSCADA,,,bccgas1.TGPLSCADA.local,Frazier,,,,,
 bcchis1,172.30.9.70 ,Atlantic Gulf Backup History 1,Transco SCADA,TGPLSCADA,,,bcchis1.TGPLSCADA.local,Frazier,,,,,
 bcchis2,172.30.9.71 ,Atlantic Gulf Backup History 2,Transco SCADA,TGPLSCADA,,,bcchis2.TGPLSCADA.local,Frazier,,,,,
