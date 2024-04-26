@@ -1,0 +1,156 @@
+    {
+    "Why": 0,
+    "diagramText": "Symptom A persisted from 03:00 to 07:16 on 2024-02-09.",
+    "Show": "Symptom persisted for ~4 hrs",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "B",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "Change" : "CHG0141372",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 1,
+    "diagramText": "Alejandro investigates from 4:14 to 6:05.",
+    "Show": " Alejandro investigates for ~2 hours",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "B",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "Change" : "CHG0141372",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 2,
+    "diagramText": "The application of the Corrective Action takes from 6:05 to 7:15",
+    "Show": "The Corrective Action takes ~1 hr",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "B",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "Change" : "CHG0141372",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 3,
+    "diagramText": "There are numerous potential causes to investigate (there are multiple exceptions and crashes every week).",
+    "Show": "Many potential causes to rule out",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "B",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "Change" : "CHG0141372",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 4,
+    "diagramText": "There was no supplementary information to help him narrow down his troubleshooting.",
+    "Show": "No supplementary information to aid troubleshooting",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "B",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "Change" : "CHG0141372",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 5,
+    "diagramText": "He had to set up the support group and catch everyone up on the problem.",
+    "Show": "Updating the bridge call",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "B",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "Change" : "CHG0141372",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 6,
+    "diagramText": "He was not aware of CHG0141372.",
+    "Show": "He was not aware of CHG0141372",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "B",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "Change" : "CHG0141372",
+    "rootCauseBool": "False"
+   }
+   {
+    "Why": 7,
+    "diagramText": "This is the standard P1 process.",
+    "Show": "This is the standard P1 process",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "B",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "Change" : "CHG0141372",
+    "rootCauseBool" : "True"
+   }
+   {
+    "Why": 8,
+    "diagramText": "He had to check out a service account -> initiate SFTP transfer",
+    "Show": "Time to implement the corrective action",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "B",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "Change" : "CHG0141372",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 9,
+    "diagramText": "He did not see receive a notification.",
+    "Show": " He did not receive a notification",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "B",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "Change" : "CHG0141372",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 10,
+    "diagramText": "He is not a recipient of the notification email.",
+    "Show": "He does not receive the emails",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "B",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "Change" : "CHG0141372",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 11,
+    "diagramText": "Gap in the F5 Wildcard Cert Update Process.",
+    "Show": "Gap in the F5 wildcard cert update process",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "B",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "Change" : "CHG0141372",
+    "rootCauseBool" : "True"
+   }
