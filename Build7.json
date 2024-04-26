@@ -8,7 +8,7 @@
     "Problem" : "PRB0006595",
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
-    "CHANGE" : "CHG0141372",
+    "Change" : "CHG0141372",
     "rootCauseBool" : "False"
    }
    {
@@ -21,7 +21,7 @@
     "Problem" : "PRB0006595",
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
-    "CHANGE" : "CHG0141372",
+    "Change" : "CHG0141372",
     "rootCauseBool" : "False"
    }
    {
@@ -34,7 +34,7 @@
     "Problem" : "PRB0006595",
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
-    "CHANGE" : "CHG0141372",
+    "Change" : "CHG0141372",
     "rootCauseBool" : "False",
    }
    {
@@ -47,7 +47,7 @@
     "Problem" : "PRB0006595",
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
-    "CHANGE" : "CHG0141372",
+    "Change" : "CHG0141372",
     "rootCauseBool" : "False"
    }
    {
@@ -60,7 +60,7 @@
     "Problem" : "PRB0006595",
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
-    "CHANGE" : "CHG0141372",
+    "Change" : "CHG0141372",
     "rootCauseBool" : "False"
    }
    {
@@ -73,7 +73,7 @@
     "Problem" : "PRB0006595",
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
-    "CHANGE" : "CHG0141372",
+    "Change" : "CHG0141372",
     "rootCauseBool" : "False"
    }
    {
@@ -86,7 +86,7 @@
     "Problem" : "PRB0006595",
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
-    "CHANGE" : "CHG0141372",
+    "Change" : "CHG0141372",
     "rootCauseBool": "False"
    }
    {
@@ -99,7 +99,7 @@
     "Problem" : "PRB0006595",
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
-    "CHANGE" : "CHG0141372",
+    "Change" : "CHG0141372",
     "rootCauseBool" : "False"
    }
    {
@@ -112,7 +112,7 @@
     "Problem" : "PRB0006595",
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
-    "CHANGE" : "CHG0141372",
+    "Change" : "CHG0141372",
     "rootCauseBool" : "False"
    }
    {
@@ -125,12 +125,12 @@
     "Problem" : "PRB0006595",
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
-    "CHANGE" : "CHG0141372",
+    "Change" : "CHG0141372",
     "rootCauseBool" : "False"
    }
    {
     "Why": 10,
-    "diagramText": "The change process for renewing F5 Certs was initiated.",
+    "diagramText": "The Change process for renewing F5 Certs was initiated.",
     "Show": "Change for renewing F5 certs is initiated",
     "Agent": "",
     "Behavior": "",
@@ -138,20 +138,20 @@
     "Problem" : "PRB0006595",
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
-    "CHANGE" : "CHG0141372",
+    "Change" : "CHG0141372",
     "rootCauseBool" : "False"
    }
    {
     "Why": 11,
     "diagramText": "The process was completed.",
-    "Show": "The change is completed",
+    "Show": "The Change is completed",
     "Agent": "",
     "Behavior": "",
     "Symptom" : "A",
     "Problem" : "PRB0006595",
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
-    "CHANGE" : "CHG0141372",
+    "Change" : "CHG0141372",
     "rootCauseBool" : "False",
    }
    {
@@ -164,7 +164,7 @@
     "Problem" : "PRB0006595",
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
-    "CHANGE" : "CHG0141372",
+    "Change" : "CHG0141372",
     "rootCauseBool" : "True"
    }
    {
@@ -177,7 +177,7 @@
     "Problem" : "PRB0006595",
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
-    "CHANGE" : "CHG0141372",
+    "Change" : "CHG0141372",
     "rootCauseBool" : "False"
    }
    {
@@ -190,7 +190,7 @@
     "Problem" : "PRB0006595",
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
-    "CHANGE" : "CHG0141372",
+    "Change" : "CHG0141372",
     "rootCauseBool" : "False"
    }
    {
@@ -203,7 +203,7 @@
     "Problem" : "PRB0006595",
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
-    "CHANGE" : "CHG0141372",
+    "Change" : "CHG0141372",
     "rootCauseBool" : "False"
    }
    {
@@ -216,7 +216,7 @@
     "Problem" : "PRB0006595",
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
-    "CHANGE" : "CHG0141372",
+    "Change" : "CHG0141372",
     "rootCauseBool" : "False"
    }
    {
@@ -229,7 +229,7 @@
     "Problem" : "PRB0006595",
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
-    "CHANGE" : "CHG0141372",
+    "Change" : "CHG0141372",
     "rootCauseBool" : "True"
    }
    {
@@ -242,6 +242,6 @@
     "Problem" : "PRB0006595",
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
-    "CHANGE" : "CHG0141372",
+    "Change" : "CHG0141372",
     "rootCauseBool" : "True"
    }
