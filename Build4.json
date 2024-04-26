@@ -9,7 +9,7 @@
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
     "CHANGE" : "CHG0141372",
-    "rootCause(T/F)" : False
+    "rootCauseBool" : False
    }
    {
     "Why": 1,
@@ -22,7 +22,7 @@
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
     "CHANGE" : "CHG0141372",
-    "rootCause(T/F)" : False
+    "rootCauseBool" : False
    }
    {
     "Why": 2,
@@ -35,7 +35,7 @@
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
     "CHANGE" : "CHG0141372",
-    "rootCause(T/F)" : False,
+    "rootCauseBool" : False,
    }
    {
     "Why": 3,
@@ -48,7 +48,7 @@
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
     "CHANGE" : "CHG0141372",
-    "rootCause(T/F)" : False
+    "rootCauseBool" : False
    }
    {
     "Why": 4,
@@ -61,7 +61,7 @@
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
     "CHANGE" : "CHG0141372",
-    "rootCause(T/F)" : False
+    "rootCauseBool" : False
    }
    {
     "Why": 5,
@@ -74,7 +74,7 @@
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
     "CHANGE" : "CHG0141372",
-    "rootCause(T/F)" : False
+    "rootCauseBool" : False
    }
    {
     "Why": 6,
@@ -87,7 +87,7 @@
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
     "CHANGE" : "CHG0141372"
-    "rootCause(T/F)" : False
+    "rootCauseBool" : False
    }
    {
     "Why": 7,
@@ -100,7 +100,7 @@
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
     "CHANGE" : "CHG0141372",
-    "rootCause(T/F)" : False
+    "rootCauseBool" : False
    }
    {
     "Why": 8,
@@ -113,7 +113,7 @@
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
     "CHANGE" : "CHG0141372",
-    "rootCause(T/F)" : False
+    "rootCauseBool" : False
    }
    {
     "Why": 9,
@@ -126,7 +126,7 @@
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
     "CHANGE" : "CHG0141372",
-    "rootCause(T/F)" : False
+    "rootCauseBool" : False
    }
    {
     "Why": 10,
@@ -139,7 +139,7 @@
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
     "CHANGE" : "CHG0141372",
-    "rootCause(T/F)" : False
+    "rootCauseBool" : False
    }
    {
     "Why": 11,
@@ -152,7 +152,7 @@
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
     "CHANGE" : "CHG0141372",
-    "rootCause(T/F)" : False,
+    "rootCauseBool" : False,
    }
    {
     "Why": 12,
@@ -165,7 +165,7 @@
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
     "CHANGE" : "CHG0141372",
-    "rootCause(T/F)" : True
+    "rootCauseBool" : True
    }
    {
     "Why": 13,
@@ -178,7 +178,7 @@
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
     "CHANGE" : "CHG0141372",
-    "rootCause(T/F)" : False
+    "rootCauseBool" : False
    }
    {
     "Why": 14,
@@ -191,7 +191,7 @@
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
     "CHANGE" : "CHG0141372",
-    "rootCause(T/F)" : False
+    "rootCauseBool" : False
    }
    {
     "Why": 15,
@@ -204,7 +204,7 @@
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
     "CHANGE" : "CHG0141372",
-    "rootCause(T/F)" : False
+    "rootCauseBool" : False
    }
    {
     "Why": 16,
@@ -217,7 +217,7 @@
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
     "CHANGE" : "CHG0141372",
-    "rootCause(T/F)" : False
+    "rootCauseBool" : False
    }
    {
     "Why": 17,
@@ -230,7 +230,7 @@
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
     "CHANGE" : "CHG0141372",
-    "rootCause(T/F)" : True
+    "rootCauseBool" : True
    }
    {
     "Why": 18,
@@ -243,8 +243,5 @@
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
     "CHANGE" : "CHG0141372",
-    "rootCause(T/F)" : True
+    "rootCauseBool" : True
    }
-
-
-   
