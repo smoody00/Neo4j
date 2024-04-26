@@ -1,4 +1,4 @@
 {
-  Why: 1,
-  diagramText: "Pipeline Control doesn’t call SCADA until 9:42PM."
+  "Why": 1,
+  "diagramText": "Pipeline Control doesn’t call SCADA until 9:42PM."
 }
