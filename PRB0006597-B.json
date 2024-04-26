@@ -1,0 +1,221 @@
+{
+    "Why": 0,
+    "diagramText": "The comms were out from ~8:12 through 8:28.",
+    "Show": "The comms were out for ~16 minutes",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "B",
+    "Problem" : "PRB0006597",
+    "Incident" : "INC1450720", 
+    "Outage" : "OUTAGE0002897",
+    "Change" : "",
+    "rootCauseBool" : "False"
+}
+{
+    "Why": 1,
+    "diagramText": "Part of this time is how long it took for Sam and Morgan to move from L14 to L3.",
+    "Show": "Personnel travel time from L14 to L3",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "B",
+    "Problem" : "PRB0006597",
+    "Incident" : "INC1450720", 
+    "Outage" : "OUTAGE0002897",
+    "Change" : "",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 2,
+    "diagramText": "The remainder of this time is how long it took for Melton to back out their work.",
+    "Show": "Melton had to back-out work",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "B",
+    "Problem" : "PRB0006597",
+    "Incident" : "INC1450720", 
+    "Outage" : "OUTAGE0002897",
+    "Change" : "",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 3,
+    "diagramText": "Sam and Morgan were on floor 14.",
+    "Show": "They were on L14",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "B",
+    "Problem" : "PRB0006597",
+    "Incident" : "INC1450720", 
+    "Outage" : "OUTAGE0002897",
+    "Change" : "",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 4,
+    "diagramText": "PC lost WiFi to their laptops and their phone service.",
+    "Show": "PC had lost WiFi and phones",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "B",
+    "Problem" : "PRB0006597",
+    "Incident" : "INC1450720", 
+    "Outage" : "OUTAGE0002897",
+    "Change" : "",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 5,
+    "diagramText": "PDUs in the L14 IT closet lost power.",
+    "Show": "PDUs in the L14 IT closet lost power",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "B",
+    "Problem" : "PRB0006597",
+    "Incident" : "INC1450720", 
+    "Outage" : "OUTAGE0002897",
+    "Change" : "",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 6,
+    "diagramText": "When breaker DUPS3A was opened, it affected the IT closet on floor 14.",
+    "Show": "DUPS3A opening affected L14 IT clost",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "B",
+    "Problem" : "PRB0006597",
+    "Incident" : "INC1450720", 
+    "Outage" : "OUTAGE0002897",
+    "Change" : "",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 7,
+    "diagramText": "Melton opens a circuit on breaker DUPS3A.",
+    "Show": "Melton opens a circuit on breaker DUPS3A",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "B",
+    "Problem" : "PRB0006597",
+    "Incident" : "INC1450720", 
+    "Outage" : "OUTAGE0002897",
+    "Change" : "",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 8,
+    "diagramText": "The local UPS in the closet were not connected.",
+    "Show": "The local UPS in the closet were not connected",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "B",
+    "Problem" : "PRB0006597",
+    "Incident" : "INC1450720", 
+    "Outage" : "OUTAGE0002897",
+    "Change" : "",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 9,
+    "diagramText": "No preparations were made to address the relationship between DUPS3A and L14.",
+    "Show": "The prep for DUPSA feeding L14",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "B",
+    "Problem" : "PRB0006597",
+    "Incident" : "INC1450720", 
+    "Outage" : "OUTAGE0002897",
+    "Change" : "",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 10,
+    "diagramText": "There was a circuit from DUPS3A -> LUPS6 -> LUPS12 ->L14.",
+    "Show": "Circuit DUPS3A --> LUPS6 --> LUPS12 -->L14",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "B",
+    "Problem" : "PRB0006597",
+    "Incident" : "INC1450720", 
+    "Outage" : "OUTAGE0002897",
+    "Change" : "",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 11,
+    "diagramText": "This was planned work.",
+    "Show": "This was planned work",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "B",
+    "Problem" : "PRB0006597",
+    "Incident" : "INC1450720", 
+    "Outage" : "OUTAGE0002897",
+    "Change" : "",
+    "rootCauseBool" : "True"
+   }
+   {
+    "Why": 12,
+    "diagramText": "Unknown",
+    "Show": "Unknown",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "B",
+    "Problem" : "PRB0006597",
+    "Incident" : "INC1450720", 
+    "Outage" : "OUTAGE0002897",
+    "Change" : "",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 13,
+    "diagramText": "There was an unknown relationship between DUPS3A and network hardware on L14",
+    "Show": "Unknown circuit DUPS3A -->L14",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "B",
+    "Problem" : "PRB0006597",
+    "Incident" : "INC1450720", 
+    "Outage" : "OUTAGE0002897",
+    "Change" : "",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 14,
+    "diagramText": "The electrical drawings are  wrong.",
+    "Show": "The electrical drawings are  wrong",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "B",
+    "Problem" : "PRB0006597",
+    "Incident" : "INC1450720", 
+    "Outage" : "OUTAGE0002897",
+    "Change" : "",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 15,
+    "diagramText": "They were changed from the time that the drawing was produced (in 2012).",
+    "Show": "They were changed",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "B",
+    "Problem" : "PRB0006597",
+    "Incident" : "INC1450720", 
+    "Outage" : "OUTAGE0002897",
+    "Change" : "",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 16,
+    "diagramText": "The drawing was wrong originally.",
+    "Show": "They were never correct",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "B",
+    "Problem" : "PRB0006597",
+    "Incident" : "INC1450720", 
+    "Outage" : "OUTAGE0002897",
+    "Change" : "",
+    "rootCauseBool" : "False"
+   }
