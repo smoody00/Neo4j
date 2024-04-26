@@ -1,0 +1,169 @@
+{
+    "Why": 0,
+    "diagramText": "EI and NWP lose SCADA realtime data.",
+    "Show": "",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006597",
+    "Incident" : "INC1450720", 
+    "Outage" : "OUTAGE0002897",
+    "Change" : "",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 1,
+    "diagramText": "TXHOUDISR1-1 and TXHOUDISR1-2 (hereafter TX1 and TX2) are not receiving power.",
+    "Show": "",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006597",
+    "Incident" : "INC1450720", 
+    "Outage" : "OUTAGE0002897",
+    "Change" : "",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 2,
+    "diagramText": "All of the breaker panels feeding TX1 and TX2 are powered off.",
+    "Show": "",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006597",
+    "Incident" : "INC1450720", 
+    "Outage" : "OUTAGE0002897",
+    "Change" : "",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 3,
+    "diagramText": "TX1 and TX2 were not wired to the new power source (SL3).",
+    "Show": "",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006597",
+    "Incident" : "INC1450720", 
+    "Outage" : "OUTAGE0002897",
+    "Change" : "",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 4,
+    "diagramText": "All of the old power sources were powered off.",
+    "Show": "",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006597",
+    "Incident" : "INC1450720", 
+    "Outage" : "OUTAGE0002897",
+    "Change" : "",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 5,
+    "diagramText": "This gap was not identified when the (Telecomm Engineer) TE was plugging in the equipment to the installed vertical PDUs",
+    "Show": "",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006597",
+    "Incident" : "INC1450720", 
+    "Outage" : "OUTAGE0002897",
+    "Change" : "",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 6,
+    "diagramText": "This gap was not identified during walk-throughs.",
+    "Show": "",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006597",
+    "Incident" : "INC1450720", 
+    "Outage" : "OUTAGE0002897",
+    "Change" : "",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 7,
+    "diagramText": "This was planned work.",
+    "Show": "",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006597",
+    "Incident" : "INC1450720", 
+    "Outage" : "OUTAGE0002897",
+    "Change" : "",
+    "rootCauseBool" : "True"
+   }
+   {
+    "Why": 8,
+    "diagramText": "A complete and accurate checklist was not created and used.",
+    "Show": "",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006597",
+    "Incident" : "INC1450720", 
+    "Outage" : "OUTAGE0002897",
+    "Change" : "",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 9,
+    "diagramText": "The TE did not understand that all of the panels except for SL3 (the new power source) were at risk to be powered off.",
+    "Show": "",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006597",
+    "Incident" : "INC1450720", 
+    "Outage" : "OUTAGE0002897",
+    "Change" : "",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 10,
+    "diagramText": "The group responsible for planning (Facilities) did not verify that the TE understood this.",
+    "Show": "",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006597",
+    "Incident" : "INC1450720", 
+    "Outage" : "OUTAGE0002897",
+    "Change" : "",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 11,
+    "diagramText": "The process relied on verbal communication to convey this information. ",
+    "Show": "",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006597",
+    "Incident" : "INC1450720", 
+    "Outage" : "OUTAGE0002897",
+    "Change" : "",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 12,
+    "diagramText": "There was no formal step in the written plan to confirm that the Risks and Risk Mitigation Measures were understood by the TE. || There was a RACI, but it was incorrect.",
+    "Show": "",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006597",
+    "Incident" : "INC1450720", 
+    "Outage" : "OUTAGE0002897",
+    "Change" : "",
+    "rootCauseBool" : "False"
+   }
