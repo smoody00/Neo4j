@@ -1,0 +1,39 @@
+{
+    "Why": 16,
+    "diagramText": "All of the steps were performed in the Change process.",
+    "Show": "All of the Change steps were performed",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "Change" : "CHG0141372",
+    "rootCauseBool" : "False"
+   }
+   {
+    "Why": 17,
+    "diagramText": "We do not have a process for adding root certs.",
+    "Show": "We dnot have a process for adding root certs",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "Change" : "CHG0141372",
+    "rootCauseBool" : "True"
+   }
+   {
+    "Why": 18,
+    "diagramText": "There is no method to discover all of the root certs within a domain.",
+    "Show": "There is no discovery method",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "Change" : "CHG0141372",
+    "rootCauseBool" : "True"
+   }
