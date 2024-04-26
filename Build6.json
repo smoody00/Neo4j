@@ -86,8 +86,8 @@
     "Problem" : "PRB0006595",
     "Incident" : "INC1450515 ", 
     "Outage" : "N/A",
-    "CHANGE" : "CHG0141372"
-    "rootCauseBool" : "False"
+    "CHANGE" : "CHG0141372",
+    "rootCauseBool": "False"
    }
    {
     "Why": 7,
