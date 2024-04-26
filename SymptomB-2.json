@@ -1,0 +1,10 @@
+{
+ "Why": 2,
+  "diagramText": "SCADA works on the problem and resolves it at 10:13PM.",
+  "Show": "SCADA troubleshooting duration"
+}
+{
+"Why" : 3,
+"diagramText" : "This is an acceptable resolution duration.",
+"Show": "Acceptable duration"
+}
