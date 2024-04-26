@@ -1,0 +1,250 @@
+    {
+    "Why": 0,
+    "diagramText": "2024-02-09, 03:00 1Line users are unable to load 1Line measurement pages. (Hourly, Daily, Monthly.)",
+    "Show": "1Line users unable to load pages",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "CHANGE" : "CHG0141372",
+    "Root Cause(T/F)" : False
+   }
+   {
+    "Why": 1,
+    "diagramText": "1Line Page loads fail.",
+    "Show": "1Line page loads fail.",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "CHANGE" : "CHG0141372",
+    "Root Cause(T/F)" : False
+   }
+   {
+    "Why": 2,
+    "diagramText": "TLS handshakes fail.",
+    "Show": "TLS handshakes fail",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "CHANGE" : "CHG0141372",
+    "Root Cause(T/F)" : False,
+   }
+   {
+    "Why": 3,
+    "diagramText": "F5 (acting as Server) presents a cert to 1Line (Client) that the client wasn’t expecting.",
+    "Show": "F5 presents an unrecognized cert to 1Line",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "CHANGE" : "CHG0141372",
+    "Root Cause(T/F)" : False
+   }
+   {
+    "Why": 4,
+    "diagramText": "F5 presents a cert that is in the Root Cert B chain. ",
+    "Show": "F5 presents a cert from Root Cert B chain",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "CHANGE" : "CHG0141372",
+    "Root Cause(T/F)" : False
+   }
+   {
+    "Why": 5,
+    "diagramText": "1Line expects to see a Cert in the Root Cert A chain.",
+    "Show": "1Line expects a cert from Root Cert A chain",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "CHANGE" : "CHG0141372",
+    "Root Cause(T/F)" : False
+   }
+   {
+    "Why": 6,
+    "diagramText": "The F5 wildcard cert was renewed. ",
+    "Show": "The F5 wildcard was renewed",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "CHANGE" : "CHG0141372"
+    "Root Cause(T/F)" : False
+   }
+   {
+    "Why": 7,
+    "diagramText": "Root Cert B is what is chosen when the Wildcard certs are renewed. ",
+    "Show": "Root Cert B is chosen",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "CHANGE" : "CHG0141372",
+    "Root Cause(T/F)" : False
+   }
+   {
+    "Why": 8,
+    "diagramText": "The client keystore does not have Root Cert B. ",
+    "Show": "The client keystore does not have Root Cert B",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "CHANGE" : "CHG0141372",
+    "Root Cause(T/F)" : False
+   }
+   {
+    "Why": 9,
+    "diagramText": "The client uses Root Certs in its Key Store to determine which certs to accept.",
+    "Show": "The client references its keystore to determine acceptance",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "CHANGE" : "CHG0141372",
+    "Root Cause(T/F)" : False
+   }
+   {
+    "Why": 10,
+    "diagramText": "The change process for renewing F5 Certs was initiated.",
+    "Show": "Change for renewing F5 certs is initiated",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "CHANGE" : "CHG0141372",
+    "Root Cause(T/F)" : False
+   }
+   {
+    "Why": 11,
+    "diagramText": "The process was completed.",
+    "Show": "The change is completed",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "CHANGE" : "CHG0141372",
+    "Root Cause(T/F)" : False,
+   }
+   {
+    "Why": 12,
+    "diagramText": "Logic internal to F5.",
+    "Show": "Logic internal to F5",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "CHANGE" : "CHG0141372",
+    "Root Cause(T/F)" : True
+   }
+   {
+    "Why": 13,
+    "diagramText": "When this Cert was acquired, it was not put there.",
+    "Show": "Cert was not put there",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "CHANGE" : "CHG0141372",
+    "Root Cause(T/F)" : False
+   }
+   {
+    "Why": 14,
+    "diagramText": "There is no method for the certs getting into the app root keystore other than the App Owner putting it there.",
+    "Show": "There is no good method",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "CHANGE" : "CHG0141372",
+    "Root Cause(T/F)" : False
+   }
+   {
+    "Why": 15,
+    "diagramText": "The cert was going to expire soon.",
+    "Show": "The cert was going to expire",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "CHANGE" : "CHG0141372",
+    "Root Cause(T/F)" : False
+   }
+   {
+    "Why": 16,
+    "diagramText": "All of the steps were performed in the Change process.",
+    "Show": "All of the Change steps were performed",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "CHANGE" : "CHG0141372",
+    "Root Cause(T/F)" : False
+   }
+   {
+    "Why": 17,
+    "diagramText": "We do not have a process for adding root certs.",
+    "Show": "We dnot have a process for adding root certs",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "CHANGE" : "CHG0141372",
+    "Root Cause(T/F)" : True
+   }
+   {
+    "Why": 18,
+    "diagramText": "There is no method to discover all of the root certs within a domain.",
+    "Show": "There is no discovery method",
+    "Agent": "",
+    "Behavior": "",
+    "Symptom" : "A",
+    "Problem" : "PRB0006595",
+    "Incident" : "INC1450515 ", 
+    "Outage" : "N/A",
+    "CHANGE" : "CHG0141372",
+    "Root Cause(T/F)" : True
+   }
+
+
+   
