@@ -1,0 +1,128 @@
+{
+    "Why": 4,
+    "diagramText": "No alarms, alerts, nor watchdogs annunciated.",
+    "Show": "No alerts",
+    "Agent": "Alerts",
+    "Behavior": "Silence",
+    "Symptom" : "B"
+   }
+   {
+    "Why": 5,
+    "diagramText": "During this period, Controllers did not notice any flat trends.",
+    "Show": "No flat trends observed",
+    "Agent": "Controllers",
+    "Behavior": "Observed no flat trends",
+    "Symptom" : "B"
+   }
+   {
+    "Why": 6,
+    "diagramText": "During this period, Controllers did not see any failures of Kepware setpoints son compression.",
+    "Show": "No failed setpoints",
+    "Agent": "Controllers",
+    "Behavior": "Did not observed setpoints failurs",
+    "Symptom" : "B"
+   }
+   {
+    "Why": 7,
+    "diagramText": "None of our existing watchdogs were capable of identifying the problem.",
+    "Show": "Existing watchdogs/alerts",
+    "Agent": "Alerts",
+    "Behavior": "Inadequate",
+    "Symptom" : "B"
+   }
+   {
+    "Why": 8,
+    "diagramText": "GeoSCADA did produce comm alarms.",
+    "Show": "No GeoSCADA alarms",
+    "Agent": "GeoSCADA alarms",
+    "Behavior": "Silence",
+    "Symptom" : "B"
+   }
+   {
+    "Why": 9,
+    "diagramText": "The system conditions did not require trending of Kepware pressure points.",
+    "Show": "Calm pipeline conditions did not prompt investigation",
+    "Agent": "Pipeline realtime values",
+    "Behavior": "Stable",
+    "Symptom" : "B"
+   }
+   {
+    "Why": 10,
+    "diagramText": "No Kepware setpoints were sent during the outage.",
+    "Show": "No Kep setpoints sent",
+    "Agent": "Kepware setpoints",
+    "Behavior": "None attempted",
+    "Symptom" : "B"
+   }
+   {
+    "Why": 11,
+    "diagramText": "App dev did not install such alerts.",
+    "Show": "Did not install adequate alerts",
+    "Agent": "App Dev",
+    "Behavior": "Failed to install adequate alerts",
+    "Symptom" : "B"
+   }
+   {
+    "Why": 12,
+    "diagramText": "Geo SCADA relies on a time since complete poll value to exceed threshold to alarm.",
+    "Show": "Time since complete poll",
+    "Agent": "GeoSCADA",
+    "Behavior": "Geo SCADA relies on a time since complete poll value to exceed threshold to alarm.",
+    "Symptom" : "B"
+   }
+   {
+    "Why": 13,
+    "diagramText": "Kepware was not communicating with GeoSCADA.",
+    "Show": "Kepware not talking with GeoSCADA",
+    "Agent": "Kepware",
+    "Behavior": "Failure to talk to GeoSCADA",
+    "Symptom" : "B"
+   }
+   {
+    "Why": 14,
+    "diagramText": "The requirements for the requested alert did not specify the need for an alert that annunciates on issues between Kep and GeoSCADA.",
+    "Show": "Failed requirements",
+    "Agent": "Requirements",
+    "Behavior": "Inadequate",
+    "Symptom" : "B"
+   }
+   {
+    "Why": 15,
+    "diagramText": "Kepware status was healthy.",
+    "Show": "Kepware status healthy",
+    "Agent": "Kepware status",
+    "Behavior": "Healthy state",
+    "Symptom" : "B"
+   }
+   {
+    "Why": 16,
+    "diagramText": "Our watchdog relied on an unhealthy status from Kepware to annunciate.",
+    "Show": "Watchogs relied on an unhealhty Kepware status",
+    "Agent": "Alerts",
+    "Behavior": "Relied on Kepware status",
+    "Symptom" : "B"
+   }
+   {
+    "Why": 17,
+    "diagramText": "The system was very smooth, pressures were not near limits, and no compression changes were required.",
+    "Show": "Calm pipeline conditions",
+    "Agent": "Pipeline",
+    "Behavior": "Stable",
+    "Symptom" : "B"
+   }
+   {
+    "Why": 18,
+    "diagramText": "The group of people who saw the need for the Kep --> GeoSCADA watchdog did not ensure that App Dev understood the request and prioritize it correctly. ",
+    "Show": "Requesters didn't make their request clear",
+    "Agent": "Requesters",
+    "Behavior": "Failure to communicate",
+    "Symptom" : "B"
+   }
+   {
+    "Why": 19,
+    "diagramText": "SCADA App Dev does not have a process for creating safety-related / high priority cards that includes the person making the request ensure that the requirements are correct.",
+    "Show": "Lack of process",
+    "Agent": "App Dev process",
+    "Behavior": "Missing standards",
+    "Symptom" : "B"
+   }
