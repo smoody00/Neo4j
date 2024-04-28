@@ -1,0 +1,3 @@
+﻿Type,Problem,Incident,Outage,diagramText,Show,Agent,agentName,Behavior,behaviorDurMinutes,Issue,Time,Why,rootCauseBool,Date
+Symptom,PRB0005931,INC1289531 ,OUTAGE002698,"""Transmission and G&P consoles experience degradations on May 20th through 21st.""","""TEST, show""",Consumer,Controllers,"""Controlling""",120,"""Missing data""","""11:00PM""",0,FALSE,"""2023/05/20"""
+Cause,PRB0005931,INC1289531 ,OUTAGE002698,"""DCX firewalls stopped SCADA traffic.""","""TEST, show""","""Security""",Firewalls,"""Interrupting""","""N/A""","""Interrupting""",,1,FALSE,"""2023/05/20"""
