@@ -1,0 +1,3 @@
+﻿relationshipType,sourceID,destinationID,relType
+DEPENDENT_CAUSE,PRB0005931-1,PRB0005931-0,True Dependency
+DEPENDENT_CAUSE,PRB0005931-2,PRB0005931-0,True Dependency
