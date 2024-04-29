@@ -1,0 +1,28 @@
+﻿Type,Problem,Incident,Outage,diagramText,Why,Show,Agent,agentName,Behavior,behaviorDurMinutes,Issue,Time,rootCauseBool,Date,Symptom,nodeID,Comment
+Symptom,PRB0005931,INC1289531 ,OUTAGE002698,Symptom A occurs seven times between the 20th and 21st. NOTE 4 ,0,Symptom A occurs seven times between the 20th and 21st. ,Consumer,Controllers,Controlling,500,Missing data,2022-05-20: 08:25,FALSE,2024-05-20,C,PRB0005931_C0,N/A
+Cause,PRB0005931,INC1289531 ,OUTAGE002698,SCADA did not fail over to DC1.,1,SCADA did not fail over to ,App Owner,SCADA Group,No action,500,Failure to respond,""" """,FALSE,2024-05-20,C,PRB0005931_C1,N/A
+Cause,PRB0005931,INC1289531 ,OUTAGE002698,SCADA did not know the cause of the degradations. ,2,SCADA did not know the cause of the degradations. ,App Owner,SCADA Group,N/A,500,Lack of awareness,""" """,FALSE,2024-05-20,C,PRB0005931_C2,N/A
+Cause,PRB0005931,INC1289531 ,OUTAGE002698,"""Network Analyst did not notify Security (or Core Hosting) that they turned down the port on the switch, which the secondary firewall had in its link monitoring.""",3,Network Analyst did not notify security that they had turned down the switch.,Environment Owner,Networking,No action,0,Failure to notify,""" """,FALSE,2024-05-20,C,PRB0005931_C3,N/A
+Cause,PRB0005931,INC1289531 ,OUTAGE002698,Security did not notify SCADA of the firewall hard drive issue.  ,4,Security did not notify SCADA of the firewall hard drive issue. ,Security,Security,No action,500,Failure to notify,""" """,FALSE,2024-05-20,C,PRB0005931_C4,N/A
+Cause,PRB0005931,INC1289531 ,OUTAGE002698,SCADA troubleshooting did not reveal the cause.,5,SCADA troubleshooting did not reveal the cause.,App Owner,SCADA Group,Troubleshooting,500,Ineffective,""" """,FALSE,2024-05-20,C,PRB0005931_C5,N/A
+Cause,PRB0005931,INC1289531 ,OUTAGE002698,Security does not typically notify SCADA of these kinds of issues.,6,Security does not typically notify SCADA of these kinds of issues.,Security,Security,No action,0,Policy,""" """,FALSE,2024-05-20,C,PRB0005931_C6,N/A
+Cause,PRB0005931,INC1289531 ,OUTAGE002698,SCADA did not ask Security to help investigate.,7,SCADA did not ask Security to help investigate.,App Owner,SCADA Group,No action,500,Policy,""" """,FALSE,2024-05-20,C,PRB0005931_C7,N/A
+Root Cause,PRB0005931,INC1289531 ,OUTAGE002698,"""It isn’t part of their process for any priority lower than P1, unless they see evidence of firewall denies.""",9,It isn’t part of their process for any priority lower than P1,App Owner,SCADA servers,No action,500,Policy,""" """,TRUE,2024-05-20,C,PRB0005931_C9,N/A
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
