@@ -1,4 +1,4 @@
-﻿relationshipType,sourceID,destinationID,relType
+﻿relationshipType,sourceID,destinationID,Description
 SINGLE_CAUSE,PRB0005931_C1,PRB0005931_C0,N/A
 SINGLE_CAUSE,PRB0005931_C2,PRB0005931_C1,N/A
 DEPENDENT_CAUSE,PRB0005931_C3,PRB0005931_C2,True Dependency
@@ -8,18 +8,3 @@ DEPENDENT_CAUSE,PRB0005931_C6,PRB0005931_C4,Stochastic Dependency
 DEPENDENT_CAUSE,PRB0005931_C7,PRB0005931_C4,Stochastic Dependency
 SINGLE_CAUSE,PRB0005931_C7,PRB0005931_C5,N/A
 SINGLE_CAUSE,PRB0005931_C9,PRB0005931_C7,N/A
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
