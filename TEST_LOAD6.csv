@@ -1,0 +1,10 @@
+Type,Entity,nodeID
+Entity,Bruin,1
+Entity,Brightfin,2
+Entity,Bluelightning,3
+Entity,Schedule for providing invoices,4
+Entity,Williams account status,5
+Entity,Hookside,6
+Entity,Ignition server,7
+Entity,Ignition clients,8
+Entity,Internet service to Hookside,9
